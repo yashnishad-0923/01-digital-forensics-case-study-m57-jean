@@ -1,0 +1,16 @@
+# Large forensic images
+*.E01
+*.E02
+*.dd
+*.img
+*.raw
+*.001
+
+# FTK/Autopsy temporary files
+*.log
+*.tmp
+
+# Operating system files
+Thumbs.db
+.DS_Store
+desktop.ini
